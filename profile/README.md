@@ -1,4 +1,34 @@
-## Hi there 👋
+## Привет, я Антон 👋
+
+### Чем я занимаюсь:
+
+- [x] Директор по технологиям в [Artics Internet Solutions](https://artics.ru/)
+- [x] Создатель [ИзиКодерс](https://easycoders.ru)
+
+### Мой стэк:
+<div style="text-align: left">
+  <img src="http://easycoders.ru/assets/badges/JS.png" alt="JavaScript" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/python.png" alt="Python" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/typescript.png" alt="TypeScript" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/go.png" alt="Go" width="100"/>
+  <img src="http://easycoders.ru/assets/badges/nodejs.png" alt="Node.js" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/django.png" alt="Django" width="100"/>
+  <img src="http://easycoders.ru/assets/badges/graphql.png" alt="GraphQL" width="100"/>
+  <img src="http://easycoders.ru/assets/badges/nestjs.png" alt="Nestjs" width="100"/>
+  <img src="http://easycoders.ru/assets/badges/react.png" alt="React" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/redux.png" alt="Redux" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/sass.png" alt="Sass" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/firebase.png" alt="Firebase" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/tailwind.png" alt="Tailwindcss" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/iosAndroid.png" alt="Ios & Android" width="100"/>
+</div>
+
+
+
+### Связаться со мной:
+
+- [Телеграм](https://t.me/agolosnichenko)
+- [Фейсбук](https://www.facebook.com/agolosnichenko/)
 
 <!--
 
