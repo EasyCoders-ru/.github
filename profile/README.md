@@ -1,34 +1,27 @@
-## Привет, я Антон 👋
+![ИзиКодерс](https://i.imgur.com/hlgbETx.png)
 
-### Чем я занимаюсь:
+# Привет, ты на гитхабе [ИзиКодерс](https://easycoders.ru)! 👋
 
-- [x] Директор по технологиям в [Artics Internet Solutions](https://artics.ru/)
-- [x] Создатель [ИзиКодерс](https://easycoders.ru)
+Самое лучшее обучение программированию - это практика!
+Если ты устал от скучных курсов, где инструктор нудным голосом часами рассказывает теорию - присоединяйся к сообществу [ИзиКодерс](https://easycoders.ru)!
 
-### Мой стэк:
-<div style="text-align: left">
-  <img src="http://easycoders.ru/assets/badges/JS.png" alt="JavaScript" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/python.png" alt="Python" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/typescript.png" alt="TypeScript" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/go.png" alt="Go" width="100"/>
-  <img src="http://easycoders.ru/assets/badges/nodejs.png" alt="Node.js" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/django.png" alt="Django" width="100"/>
-  <img src="http://easycoders.ru/assets/badges/graphql.png" alt="GraphQL" width="100"/>
-  <img src="http://easycoders.ru/assets/badges/nestjs.png" alt="Nestjs" width="100"/>
-  <img src="http://easycoders.ru/assets/badges/react.png" alt="React" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/redux.png" alt="Redux" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/sass.png" alt="Sass" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/firebase.png" alt="Firebase" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/tailwind.png" alt="Tailwindcss" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/iosAndroid.png" alt="Ios & Android" width="100"/>
-</div>
+Мы обучаем программированию простым языком и, самое главное, на практике! Мы вместе пошагово разбираем как можно своими силами сделать полноценные клоны популярных стартапов, так чтобы у тебя **РЕАЛЬНО** остались знания, которые ты сможешь применять в своих проектах.
 
+### Подарок новым участникам
+Зарегистрируйся на сайте https://easycoders.ru сегодня и получи скидку *500 рублей* на любую подписку по промокоду:
+**GITHUBGIFT**
 
+### Подписывайся в соцсетях:
 
-### Связаться со мной:
+- [Ютуб](https://www.youtube.com/channel/UCAy9ueEnOM1KcMmu6bsQLLg)
+- [Инстаграм](https://instagram.com/easycoders.ru)
+- [ТикТок](https://www.tiktok.com/@easycoders)
+- [Твитч](https://www.twitch.tv/easycoders_ru)
+- [Фейсбук](https://www.facebook.com/easycoders.ru)
+- [ВК](https://vk.com/easycodersru)
 
-- [Телеграм](https://t.me/agolosnichenko)
-- [Фейсбук](https://www.facebook.com/agolosnichenko/)
+### Связаться с нами:
+anton@easycoders.ru
 
 <!--
 
